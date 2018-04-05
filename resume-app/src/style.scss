@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+
+h1{
+	
+}
+
+
+.centered{
+	text-align: center;
+}
+
+.circle{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+p{
+	font-size: 16px;
+}
+
+
+.tags{
+	font-size: 16px;
+}
+
+.footer{
+	min-height: 50px;
+	background: #272822;
+}
+
+.footer > div{
+	color: #ffffff;
+	padding-top:15px;
+}
